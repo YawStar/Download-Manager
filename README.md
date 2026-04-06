@@ -1,4 +1,4 @@
-# 📦 YawStar Dance-Box v1.0.0.11
+# 📦 YawStar Dance-Box
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Version](https://img.shields.io/badge/Version-1.0.0.11-00A9E0?style=for-the-badge)
